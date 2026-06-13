@@ -1,0 +1,11 @@
+Upload these files directly to the root of your GitHub repository:
+
+app.py
+requirements.txt
+storage.py
+timesheet_engine.py
+default_overlay_config.json
+template.pdf  <-- your original USK timesheet PDF renamed exactly like this
+README.md
+
+No folders are required for this flat version.
